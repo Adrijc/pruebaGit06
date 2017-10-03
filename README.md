@@ -1,4 +1,5 @@
 # pruebaGit06
 
 Adrián Jarne
-Hector Díaz
+Hector Díaz 
+Vamos a trabajar con Java en este módulo profesional
